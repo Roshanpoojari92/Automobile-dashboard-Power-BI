@@ -49,4 +49,20 @@ How can automobile sales data be transformed into actionable insights to:
 
 ---
 
-## 📂 Repository Structure
+## 📸 Dashboard Screenshots
+### Page 1 – Sales Overview
+![Sales Overview](https://github.com/Roshanpoojari92/Automobile-dashboard-Power-BI/blob/main/Sales%20Overview%20%26%20Trend.jpg)
+
+### Page 2 – Regional & Profit Analysis
+![Regional & Profit Analysis](https://github.com/Roshanpoojari92/Automobile-dashboard-Power-BI/blob/main/Regional%20%26%20Profit%20Analysis.jpg)
+
+Here is the link for Power BI service: https://app.powerbi.com/groups/me/reports/43e5da39-70ed-4507-8eea-b142ff7d5768/3726ab52ff7e79fb590a?experience=power-bi
+---
+
+## 👤 Author
+**Roshan**
+
+## 📂 Files Included
+- `.pbix` file (Power BI Dashboard)
+- Screenshots of dashboard pages
+- README documentation
