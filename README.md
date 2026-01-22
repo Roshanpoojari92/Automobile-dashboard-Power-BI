@@ -56,13 +56,13 @@ How can automobile sales data be transformed into actionable insights to:
 ### Page 2 – Regional & Profit Analysis
 ![Regional & Profit Analysis](https://github.com/Roshanpoojari92/Automobile-dashboard-Power-BI/blob/main/Regional%20%26%20Profit%20Analysis.jpg)
 
-Here is the link for Power BI service: https://app.powerbi.com/groups/me/reports/43e5da39-70ed-4507-8eea-b142ff7d5768/3726ab52ff7e79fb590a?experience=power-bi
+Here is the link for Power BI service: [https://app.powerbi.com/groups/me/reports/43e5da39-70ed-4507-8eea-b142ff7d5768/3726ab52ff7e79fb590a?experience=power-bi](https://app.powerbi.com/groups/me/reports/9b0c574d-388d-41cf-b315-694f0e7c2aca/1d0a40671cbcc05a4680?experience=power-bi)
 ---
-
-## 👤 Author
-**Roshan**
 
 ## 📂 Files Included
 - `.pbix` file (Power BI Dashboard)
 - Screenshots of dashboard pages
 - README documentation
+
+- ## 👤 Author
+**Roshan**
